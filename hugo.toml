@@ -1,0 +1,5 @@
+baseURL = 'https://profrsantana.github.io/'
+locale = 'pt-br'
+title = 'Blog Prof Rodrigo Santana'
+
+theme = 'Anatole'

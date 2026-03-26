@@ -1,0 +1,18 @@
+
+title = "Estudos do Prof Rodrigo Santana"
+author = "Rodrigo M B Santana"
+description = "Escritos dos meus estudos em Inteligência Artificial"
+profilePicture = "images/profile.jpg"
+localizedDates = true
+# Format for the single post page
+singleDateFormat = "02/01/2006"
+
+# Format for the homepage (index)
+indexDateFormat = "02 de Janeiro de 2006"
+
+# Format for list pages (categories, tags, archives)
+# Use "02/01" if you only want day/month in lists
+listDateFormat = "02/01"
+
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
