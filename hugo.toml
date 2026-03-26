@@ -3,3 +3,7 @@ locale = 'pt-br'
 title = 'Blog Prof Rodrigo Santana'
 
 theme = 'Anatole'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
