@@ -24,8 +24,6 @@ readMore = true
 [mermaid]
     enable=true
 
-
-
 ## Math settings
 [math]
 enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
