@@ -55,3 +55,8 @@ url = "http://lattes.cnpq.br/2093996354767369"
 icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:rodrigombsantana@gmail.com"
+
+[[socialIcons]]
+icon = "fas fa-rss"
+title = "RSS"
+url = "/posts/index.xml"

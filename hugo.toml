@@ -4,6 +4,12 @@ title = 'Blog Prof Rodrigo Santana'
 
 theme = 'anatole'
 
+[outputs]
+  home = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
