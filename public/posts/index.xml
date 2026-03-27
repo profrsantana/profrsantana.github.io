@@ -5,34 +5,6 @@
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Blog Prof Rodrigo Santana</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Fri, 27 Mar 2026 14:20:14 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Teste2</title>
-      <link>http://localhost:1313/posts/teste2/</link>
-      <pubDate>Fri, 27 Mar 2026 14:20:14 -0300</pubDate>
-      
-      <guid>http://localhost:1313/posts/teste2/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bemvindo</title>
-      <link>http://localhost:1313/posts/bemvindo/</link>
-      <pubDate>Thu, 26 Mar 2026 15:43:29 -0300</pubDate>
-      
-      <guid>http://localhost:1313/posts/bemvindo/</guid>
-      
-        <description>&lt;div class=&#34;mermaid&#34;&gt;graph TD;
-    A--&gt;B;
-    A--&gt;C;
-    B--&gt;D;
-    C--&gt;D;
-&lt;/div&gt;</description>
-      
-    </item>
-    
+    <language>pt-br</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

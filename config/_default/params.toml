@@ -40,11 +40,6 @@ title = "Instagram"
 url = "https://www.instagram.com/profrsantana/"
 
 [[socialIcons]]
-icon = "fab fa-rust"
-title = "Arigos Sobre Rust"
-url = "https://embarcados.com.br/author/rodrigombsantana/"
-
-[[socialIcons]]
 icon = "fas fa-graduation-cap"
 title = "Curriculum Lattes"
 url = "http://lattes.cnpq.br/2093996354767369"
