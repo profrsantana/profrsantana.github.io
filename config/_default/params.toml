@@ -1,4 +1,6 @@
 
+gtagId = "G-EZZPWFKLQR"  # replace with your GA4 Measurement ID
+
 title = "Estudos do Prof Rodrigo Santana"
 author = "Rodrigo M B Santana"
 description = "Escritos dos meus estudos em Visão Computacional, Agentes de Inteligência Artificial, e outros tópicos relacionados ao meu Doutorado em Ciencias e Tecnologias Espacias no ITA"
