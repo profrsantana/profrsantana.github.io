@@ -1,9 +1,11 @@
 
 gtagId = "G-EZZPWFKLQR"  # replace with your GA4 Measurement ID
 
+customCss = ["css/custom.css"]
+
 title = "Estudos do Prof Rodrigo Santana"
 author = "Rodrigo M B Santana"
-description = "Escritos dos meus estudos em Visão Computacional, Agentes de Inteligência Artificial, e outros tópicos relacionados ao meu Doutorado em Ciencias e Tecnologias Espacias no ITA"
+description = "Escritos dos meus estudos em Visão Computacional, Agentes de Inteligência Artificial, e outros tópicos, inclusos os relacionados ao meu Doutorado em Ciencias e Tecnologias Espacias no ITA"
 profilePicture = "images/eu.jpg"
 localizedDates = true
 # Format for the single post page

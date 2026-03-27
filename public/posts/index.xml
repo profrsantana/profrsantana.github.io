@@ -5,6 +5,20 @@
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Blog Prof Rodrigo Santana</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 26 Mar 2026 15:43:29 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bem vindo</title>
+      <link>http://localhost:1313/posts/bemvindo/</link>
+      <pubDate>Thu, 26 Mar 2026 15:43:29 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/bemvindo/</guid>
+      
+        <description>&lt;p&gt;Bem vindo aos meus escritos/estudos sobre Inteligencia Artificial, Agentes de IA e outros topicos que tenho estudado ultimamente.&lt;/p&gt;
+&lt;p&gt;Hoje alem de trabalhar como Pesquisador e Engenheiro de IA na &lt;a href=&#34;https://www.mars.com/&#34;&gt;Mars Inc.&lt;/a&gt;, ministrei aulas na &lt;a href=&#34;https://fatecjacarei.cps.sp.gov.br/&#34;&gt;Fatec&lt;/a&gt; na area de Computação e sou estudante de doutorado de Ciências e Tecnologias Espacias no &lt;a href=&#34;https://www.ita.br/&#34;&gt;ITA&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A idéia é compartilhar o que venho aprendendo e estudando, de forma a fixar melhor os meus conhecimentos e tambem ensinar pois acredito que quem ensina aprende duas vezes.&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
