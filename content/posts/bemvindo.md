@@ -12,5 +12,22 @@ Hoje alem de trabalhar como Pesquisador e Engenheiro de IA na [Mars Inc.](https:
 
 A idéia é compartilhar o que venho aprendendo e estudando, de forma a fixar melhor os meus conhecimentos e também, de ensinar os mesmos tópicos pois acredito que quem ensina aprende duas vezes.
 
+Algumas linhas de raciocínio e de estudos são esperadas:
+
+- Doutorado:
+  - Sensoriamento remoto
+  - Geoinformática
+  - Machine Learning
+  - Queimadas
+- Agentes de IA:
+  - Frameworks de desenvolvimento
+  - Pilotos
+  - Deployment
+- Ciência de dados:
+  - Estatística
+  - Fundamentos de aprendizado com dados
+- Palestras
+- Eventos
+- Leitura de artigos
 
 
