@@ -1,6 +1,5 @@
 +++
 date = '2026-03-31T14:01:09-03:00'
-draft = true
 title = 'Laboratório de Plasmas e Processos'
 series = ["Seminários ITA"]
 tags = ["ITA", "Seminários", "Doutorado"]

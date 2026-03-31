@@ -23,6 +23,8 @@ defaultContentLanguage = "pt-br"
 
 readMore = true
 
+postSectionName = "posts"
+
 [mermaid]
     enable=true
 
@@ -55,8 +57,6 @@ url = "mailto:rodrigombsantana@gmail.com"
 icon = "fas fa-rss"
 title = "RSS"
 url = "/posts/index.xml"
-
-postSectionName = "posts"
 
 [giscus]
     repo = "profrsantana/profrsantana.github.io"

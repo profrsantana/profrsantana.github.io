@@ -418,6 +418,24 @@ A idéia é compartilhar o que venho aprendendo e estudando, de forma a fixar me
       
         <h1>Bem Vindo</h1>
       
+      
+        <ul class="post__meta">
+          <li class="post__meta-item">
+            <em class="fas fa-calendar-day post__meta-icon"></em>
+            <span class="post__meta-text"
+              >
+                
+                  26/03/2026
+                
+
+              
+            </span>
+          </li>
+          <li class="post__meta-item">
+            <em class="fas fa-stopwatch post__meta-icon"></em>
+            <span class="post__meta-text">Tempo de leitura: 1 minuto</span>
+          </li>
+        </ul>
       <p>Bem vindo aos meus escritos/estudos sobre Inteligência Artificial, Agentes de IA e outros tópicos que tenho estudado ultimamente.</p>
 <p>Hoje alem de trabalhar como Pesquisador e Engenheiro de IA na <a href="https://www.mars.com/">Mars Inc.</a>, ministrei aulas na <a href="https://fatecjacarei.cps.sp.gov.br/">Fatec</a> na área de Computação e sou estudante de doutorado de Ciências e Tecnologias Espaciais no <a href="https://www.ita.br/">ITA</a>.</p>
 <p>A idéia é compartilhar o que venho aprendendo e estudando, de forma a fixar melhor os meus conhecimentos e também, de ensinar os mesmos tópicos pois acredito que quem ensina aprende duas vezes.</p>
@@ -456,7 +474,55 @@ A idéia é compartilhar o que venho aprendendo e estudando, de forma a fixar me
       
     </div>
 
-    
+    <div id="comment">
+          <h2>comentários</h2>
+          <script>
+    const getStoredTheme = () => localStorage.getItem("theme") === "dark" ? "dark" : "light";
+
+    const setGiscusTheme = () => {
+        const sendMessage = (message) => {
+            const iframe = document.querySelector('iframe.giscus-frame');
+            if (iframe) {
+                iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+            }
+        }
+        sendMessage({ setConfig: { theme: getStoredTheme() } })
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        const giscusAttributes = {
+            "src": "https://giscus.app/client.js",
+            "data-repo": "profrsantana\/profrsantana.github.io",
+            "data-repo-id": "R_kgDORxrlsA",
+            "data-category": "General",
+            "data-category-id": "DIC_kwDORxrlsM4C5t2K",
+            "data-mapping": "pathname",
+            "data-strict": "0",
+            "data-reactions-enabled": "1",
+            "data-emit-metadata": "0",
+            "data-input-position": "bottom",
+            "data-theme": getStoredTheme(),
+            "data-lang": "en",
+            "data-loading": "lazy",
+            "crossorigin": "anonymous",
+            "async": "",
+        };
+
+        
+        const giscusScript = document.createElement("script");
+        Object.entries(giscusAttributes).forEach(
+            ([key, value]) => giscusScript.setAttribute(key, value));
+        document.getElementById("comment").appendChild(giscusScript);
+
+        
+        const themeSwitcher = document.querySelector(".themeswitch");
+        if (themeSwitcher) {
+            themeSwitcher.addEventListener("click", setGiscusTheme);
+        }
+    });
+</script>
+
+        </div>
   </div>
 
       </main>

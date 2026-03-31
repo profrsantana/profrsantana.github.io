@@ -441,6 +441,24 @@ Resumo: A Física de Plasmas tem desempenhado um papel central no desenvolviment
       
         <h1>Laboratório De Plasmas E Processos</h1>
       
+      
+        <ul class="post__meta">
+          <li class="post__meta-item">
+            <em class="fas fa-calendar-day post__meta-icon"></em>
+            <span class="post__meta-text"
+              >
+                
+                  31/03/2026
+                
+
+              
+            </span>
+          </li>
+          <li class="post__meta-item">
+            <em class="fas fa-stopwatch post__meta-icon"></em>
+            <span class="post__meta-text">Tempo de leitura: 2 minutos</span>
+          </li>
+        </ul>
       <p>Uma das disciplinas do meu doutorado esse ano no ITA é a TE-301, Seminários. Essa disciplina é coordenada pelo professor <a href="http://lattes.cnpq.br/3088345359357221">Francisco Machado</a>, com o intuito de apresentar grupos de pesquisa e trabalhos dentro do ITA.</p>
 <p>A primeira apresentação foi do <a href="https://www.lpp.ita.br/">Laboratório de Plasmas e Processos</a>, apresentada pelo professor <a href="http://lattes.cnpq.br/0105707010434668">Andre Pereira</a> com o tema <em><strong>&ldquo;Física de Plasmas: Superando Desafios da Tecnologia de Materiais&rdquo;</strong></em></p>
 <p><img src="/images/lpp.png" alt="Logo LPP"></p>
@@ -478,7 +496,55 @@ O exemplo foi interessante pois semanas antes dessa palestra minha mãe havia co
       
     </div>
 
-    
+    <div id="comment">
+          <h2>comentários</h2>
+          <script>
+    const getStoredTheme = () => localStorage.getItem("theme") === "dark" ? "dark" : "light";
+
+    const setGiscusTheme = () => {
+        const sendMessage = (message) => {
+            const iframe = document.querySelector('iframe.giscus-frame');
+            if (iframe) {
+                iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+            }
+        }
+        sendMessage({ setConfig: { theme: getStoredTheme() } })
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        const giscusAttributes = {
+            "src": "https://giscus.app/client.js",
+            "data-repo": "profrsantana\/profrsantana.github.io",
+            "data-repo-id": "R_kgDORxrlsA",
+            "data-category": "General",
+            "data-category-id": "DIC_kwDORxrlsM4C5t2K",
+            "data-mapping": "pathname",
+            "data-strict": "0",
+            "data-reactions-enabled": "1",
+            "data-emit-metadata": "0",
+            "data-input-position": "bottom",
+            "data-theme": getStoredTheme(),
+            "data-lang": "en",
+            "data-loading": "lazy",
+            "crossorigin": "anonymous",
+            "async": "",
+        };
+
+        
+        const giscusScript = document.createElement("script");
+        Object.entries(giscusAttributes).forEach(
+            ([key, value]) => giscusScript.setAttribute(key, value));
+        document.getElementById("comment").appendChild(giscusScript);
+
+        
+        const themeSwitcher = document.querySelector(".themeswitch");
+        if (themeSwitcher) {
+            themeSwitcher.addEventListener("click", setGiscusTheme);
+        }
+    });
+</script>
+
+        </div>
   </div>
 
       </main>
