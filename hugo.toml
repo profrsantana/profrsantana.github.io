@@ -49,3 +49,4 @@ theme = 'anatole'
   [[related.indices]]
       name = "series"
       weight = 100
+

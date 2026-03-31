@@ -6,7 +6,33 @@
     <description>Recent content in Posts on Blog Prof Rodrigo Santana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 26 Mar 2026 15:43:29 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Mar 2026 14:01:09 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laboratório de Plasmas e Processos</title>
+      <link>http://localhost:1313/posts/lpp/</link>
+      <pubDate>Tue, 31 Mar 2026 14:01:09 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/lpp/</guid>
+      
+        <description>&lt;p&gt;Uma das disciplinas do meu doutorado esse ano no ITA é a TE-301, Seminários. Essa disciplina é coordenada pelo professor &lt;a href=&#34;http://lattes.cnpq.br/3088345359357221&#34;&gt;Francisco Machado&lt;/a&gt;, com o intuito de apresentar grupos de pesquisa e trabalhos dentro do ITA.&lt;/p&gt;
+&lt;p&gt;A primeira apresentação foi do &lt;a href=&#34;https://www.lpp.ita.br/&#34;&gt;Laboratório de Plasmas e Processos&lt;/a&gt;, apresentada pelo professor &lt;a href=&#34;http://lattes.cnpq.br/0105707010434668&#34;&gt;Andre Pereira&lt;/a&gt; com o tema &lt;em&gt;&lt;strong&gt;&amp;ldquo;Física de Plasmas: Superando Desafios da Tecnologia de Materiais&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/lpp.png&#34; alt=&#34;Logo LPP&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Esse foi o resumo dado pelo professor:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Resumo: A Física de Plasmas tem desempenhado um papel central no desenvolvimento de diversas tecnologias avançadas, com impacto direto em áreas estratégicas da Engenharia de Materiais, energia e meio ambiente. Nesta palestra, serão apresentados os princípios fundamentais da Física de Plasmas e será discutido como esses fenômenos têm sido explorados para o desenvolvimento de tecnologias inovadoras. Serão abordadas diferentes aplicações de plasmas em processos tecnológicos, com destaque para deposição de filmes finos, engenharia de superfícies, produção de recobrimentos funcionais e fabricação de sensores e dispositivos. Além disso, serão apresentados exemplos de aplicações em áreas emergentes, como destruição e gaseificação de resíduos, tratamento de efluentes sólidos e líquidos, processos baseados em ozônio e produção de combustíveis sustentáveis, incluindo rotas para geração de hidrogênio. A palestra também apresentará exemplos de pesquisas desenvolvidas no Laboratório de Plasmas e Processos (LPP) do Instituto Tecnológico de Aeronáutica (ITA), evidenciando como tecnologias a plasma podem contribuir para o avanço científico e para soluções tecnológicas em setores estratégicos como energia, meio ambiente e indústria aeroespacial.&lt;/em&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Teste2</title>
+      <link>http://localhost:1313/posts/teste2/</link>
+      <pubDate>Fri, 27 Mar 2026 14:20:14 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/teste2/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Bem vindo</title>
       <link>http://localhost:1313/posts/bemvindo/</link>

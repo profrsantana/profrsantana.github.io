@@ -55,3 +55,13 @@ url = "mailto:rodrigombsantana@gmail.com"
 icon = "fas fa-rss"
 title = "RSS"
 url = "/posts/index.xml"
+
+postSectionName = "posts"
+
+[giscus]
+    repo = "profrsantana/profrsantana.github.io"
+    repoId = "R_kgDORxrlsA"
+    category = "General"
+    categoryId = "DIC_kwDORxrlsM4C5t2K"
+    mapping = "pathname"
+    theme = "preferred_color_scheme" 
