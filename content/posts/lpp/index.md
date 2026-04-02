@@ -10,7 +10,7 @@ Uma das disciplinas do meu doutorado esse ano no ITA é a TE-301, Seminários. E
 
 A primeira apresentação foi do [Laboratório de Plasmas e Processos](https://www.lpp.ita.br/), apresentada pelo professor [Andre Pereira](http://lattes.cnpq.br/0105707010434668) com o tema ***"Física de Plasmas: Superando Desafios da Tecnologia de Materiais"***
 
-![Logo LPP](/images/lpp.png)
+![Logo LPP](feature.png)
 
 Esse foi o resumo dado pelo professor: 
 

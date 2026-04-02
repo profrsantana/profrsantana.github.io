@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Blog Prof Rodrigo Santana</title>
-    <link>http://localhost:60711/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Blog Prof Rodrigo Santana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Rodrigo M B Santana</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 09:46:19 -0300</lastBuildDate><atom:link href="http://localhost:60711/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Apr 2026 09:46:19 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Divisão de Materiais - IAE</title>
-      <link>http://localhost:60711/posts/dmiae/</link>
+      <link>http://localhost:1313/posts/dmiae/</link>
       <pubDate>Wed, 01 Apr 2026 09:46:19 -0300</pubDate>
       
-      <guid>http://localhost:60711/posts/dmiae/</guid>
+      <guid>http://localhost:1313/posts/dmiae/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dmiae/feature.png" />
     </item>
     
     <item>
       <title>Laboratório de Plasmas e Processos</title>
-      <link>http://localhost:60711/posts/lpp/</link>
+      <link>http://localhost:1313/posts/lpp/</link>
       <pubDate>Tue, 31 Mar 2026 14:01:09 -0300</pubDate>
       
-      <guid>http://localhost:60711/posts/lpp/</guid>
+      <guid>http://localhost:1313/posts/lpp/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lpp/feature.png" />
     </item>
     
     <item>
       <title>Teste2</title>
-      <link>http://localhost:60711/posts/teste2/</link>
+      <link>http://localhost:1313/posts/teste2/</link>
       <pubDate>Fri, 27 Mar 2026 14:20:14 -0300</pubDate>
       
-      <guid>http://localhost:60711/posts/teste2/</guid>
+      <guid>http://localhost:1313/posts/teste2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Bem vindo</title>
-      <link>http://localhost:60711/posts/bemvindo/</link>
+      <link>http://localhost:1313/posts/bemvindo/</link>
       <pubDate>Thu, 26 Mar 2026 15:43:29 -0300</pubDate>
       
-      <guid>http://localhost:60711/posts/bemvindo/</guid>
+      <guid>http://localhost:1313/posts/bemvindo/</guid>
       <description></description>
       
     </item>

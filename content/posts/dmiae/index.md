@@ -8,7 +8,7 @@ tags = ["ITA", "Seminários", "Doutorado"]
 
 Continuando nos seminários da disciplina TE-301, a segunda apresentação foi da [Divisão de Materiais do IAE](https://iae.dcta.mil.br/), apresentada pelo professor [Emerson Gonçalves](http://lattes.cnpq.br/2105394824226325) com o tema ***"Armazenamento Híbrido de Energia eletroquímica em células de grafeno e mxeno de nióbio"***
 
-![Logo IAE](/images/iae.png)
+![Logo IAE](feature.png)
 
 Esse foi o resumo dado pelo professor: 
 
