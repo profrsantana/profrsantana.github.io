@@ -3,3 +3,9 @@
     line-height: 1.5;
     text-align: justify;
 }
+
+/* Show feature images in full without cropping */
+.thumbnail img,
+.single_hero_round {
+    object-fit: contain;
+}
