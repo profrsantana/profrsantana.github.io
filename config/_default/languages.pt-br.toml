@@ -14,7 +14,7 @@ title = "Blog Prof Rodrigo Santana"
 [params.author]
   name = "Rodrigo M B Santana"
   image = "img/eu.jpg"
-  headline = "Pesquisador, Engenheiro de IA e Doutorando no ITA"
+  headline = "Professor, Pesquisador, Engenheiro de IA e Doutorando no ITA"
   bio = "Trabalho como Pesquisador e Engenheiro de IA na Mars Inc., ministrei aulas na Fatec na área de Computação e sou estudante de doutorado de Ciências e Tecnologias Espaciais no ITA."
   links = [
     { linkedin = "https://www.linkedin.com/in/rodrigo-santana-8865294/" },
