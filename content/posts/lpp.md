@@ -2,6 +2,7 @@
 date = '2026-03-31T14:01:09-03:00'
 title = 'Laboratório de Plasmas e Processos'
 series = ["Seminários ITA"]
+series_order = 1
 tags = ["ITA", "Seminários", "Doutorado"]
 +++
 

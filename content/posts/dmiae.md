@@ -2,6 +2,7 @@
 date = '2026-04-01T09:46:19-03:00'
 title = 'Divisão de Materiais - IAE'
 series = ["Seminários ITA"]
+series_order = 2
 tags = ["ITA", "Seminários", "Doutorado"]
 +++
 
