@@ -1,67 +1,64 @@
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
 
-gtagId = "G-EZZPWFKLQR"  # replace with your GA4 Measurement ID
+enableSearch = true
+enableCodeCopy = true
+enableRobotsTXT = true
 
-customCss = ["css/custom.css"]
+disableImageOptimization = false
 
-title = "Estudos do Prof Rodrigo Santana"
-author = "Rodrigo M B Santana"
-description = "Escritos dos meus estudos em Visão Computacional, Agentes de Inteligência Artificial, e outros tópicos, inclusos os relacionados ao meu Doutorado em Ciencias e Tecnologias Espacias no ITA"
-profilePicture = "images/eu.jpg"
-localizedDates = true
-# Format for the single post page
-singleDateFormat = "02/01/2006"
+[header]
+  layout = "basic"
 
-# Format for the homepage (index)
-indexDateFormat = "02 de Janeiro de 2006"
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
 
-# Format for list pages (categories, tags, archives)
-# Use "02/01" if you only want day/month in lists
-listDateFormat = "02/01"
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 5
+  showMoreLink = true
+  showMoreLinkDest = "/posts/"
+  cardView = false
 
-languageCode = "pt-br"
-defaultContentLanguage = "pt-br"
+[article]
+  showDate = true
+  showDateUpdated = false
+  showAuthor = true
+  showHero = false
+  showBreadcrumbs = false
+  showDraftLabel = true
+  showHeadingAnchors = true
+  showPagination = true
+  showReadingTime = true
+  showTableOfContents = false
+  showTaxonomies = true
+  showWordCount = true
+  showComments = true
+  seriesOpened = true
 
-readMore = true
+[list]
+  showBreadcrumbs = false
+  showSummary = true
+  showCards = false
+  groupByYear = true
+  cardView = false
 
-postSectionName = "posts"
+[sitemap]
+  excludedKinds = ["taxonomy", "term"]
 
-[mermaid]
-    enable=true
+[taxonomy]
+  showTermCount = true
+  showBreadcrumbs = false
+  cardView = false
 
-## Math settings
-[math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
-
-[[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/rodrigo-santana-8865294/"
-
-[[socialIcons]]
-icon = "fab fa-instagram"
-title = "Instagram"
-url = "https://www.instagram.com/profrsantana/"
-
-[[socialIcons]]
-icon = "fas fa-graduation-cap"
-title = "Curriculum Lattes"
-url = "http://lattes.cnpq.br/2093996354767369"
-
-[[socialIcons]]
-icon = "fas fa-envelope"
-title = "Email"
-url = "mailto:rodrigombsantana@gmail.com"
-
-[[socialIcons]]
-icon = "fas fa-rss"
-title = "RSS"
-url = "/posts/index.xml"
-
-[giscus]
-    repo = "profrsantana/profrsantana.github.io"
-    repoId = "R_kgDORxrlsA"
-    category = "General"
-    categoryId = "DIC_kwDORxrlsM4C5t2K"
-    mapping = "pathname"
-    theme = "preferred_color_scheme" 
+[term]
+  showBreadcrumbs = false
+  showTableOfContents = false
+  groupByYear = false
+  cardView = false
