@@ -12,3 +12,8 @@
   name = "Series"
   pageRef = "series"
   weight = 30
+
+[[main]]
+  name = "Inscreva-se"
+  url = "https://follow.it/blog-prof-rodrigo-santana?leanpub"
+  weight = 40
