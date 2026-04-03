@@ -4,7 +4,7 @@ title = 'ICTi - Instituto de Ciência e Tecnologia Itaú'
 tags = ["Inovação", "P&D"]
 +++
 
-Essa semana participei de um evento online do [ITCi](https://www.linkedin.com/company/instituto-de-ciencia-e-tecnologia-itau-icti) chamado *Sinapses ICTi – Edição aberta*
+Essa semana participei de um evento online do [ICTi](https://www.linkedin.com/company/instituto-de-ciencia-e-tecnologia-itau-icti) chamado *Sinapses ICTi – Edição aberta*
 
 ![Logo ICTi Sinapses](/images/icti.png)
 
