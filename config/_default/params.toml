@@ -41,6 +41,7 @@ disableImageOptimization = false
   showWordCount = true
   showComments = true
   seriesOpened = true
+  sharingLinks = ["linkedin", "x-twitter", "whatsapp", "telegram", "email", "reddit"]
 
 [list]
   showBreadcrumbs = false
