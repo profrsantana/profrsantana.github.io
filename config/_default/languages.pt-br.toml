@@ -22,4 +22,5 @@ title = "Blog Prof Rodrigo Santana"
     { email = "mailto:rodrigombsantana@gmail.com" },
     { rss = "/posts/index.xml" },
     { lattes = "http://lattes.cnpq.br/2093996354767369" },
+    { followit = "https://follow.it/blog-prof-rodrigo-santana?leanpub" },
   ]
