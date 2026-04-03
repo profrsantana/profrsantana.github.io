@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Rodrigo M B Santana</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 09:46:19 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Apr 2026 20:41:05 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ICTi - Instituto de Ciência e Tecnologia Itaú</title>
+      <link>http://localhost:1313/posts/icti/</link>
+      <pubDate>Thu, 02 Apr 2026 20:41:05 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/icti/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/icti/feature.png" />
+    </item>
     
     <item>
       <title>Divisão de Materiais - IAE</title>
