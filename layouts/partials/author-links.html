@@ -1,0 +1,29 @@
+{{ with .Site.Params.Author.links }}
+  {{ $customTitles := dict "followit" "Receber Novidades por Email" "google-scholar" "Google Scholar" }}
+  <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500 space-x-2">
+    {{ range $links := . }}
+      {{ range $name, $url := $links }}
+        {{ $isEmail := eq $name "email" }}
+        {{ $title := index $customTitles $name | default ($name | title) }}
+        <a
+          class="{{ cond $isEmail "email-link" "" }} hover:text-primary-700 dark:hover:text-primary-400"
+          href="{{ cond $isEmail "#" ($url | safeURL) }}"
+          {{ if eq $name "email" }}
+            data-email="{{ $url | base64Encode }}"
+          {{ end }}
+          target="_blank"
+          aria-label="{{ $title }}"
+          title="{{ $title }}"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
+            {{- if eq $name "lattes" -}}
+              <img src="/cvlattes.png" alt="{{ $title }}" class="nozoom" style="height:1em;width:1em;display:inline;vertical-align:middle;filter:grayscale(1);opacity:0.6;">
+            {{- else -}}
+              {{ partial "icon.html" $name }}
+            {{- end -}}
+          </span></a
+        >
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}
