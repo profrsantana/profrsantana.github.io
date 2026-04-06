@@ -4,8 +4,19 @@
     text-align: justify;
 }
 
-/* Show feature images in full without cropping */
+/* Reset prose paragraph styles inside Mermaid diagrams */
+.mermaid p,
+.mermaid span,
+.mermaid div {
+    text-indent: 0;
+    text-align: center;
+}
 .thumbnail img,
 .single_hero_round {
     object-fit: contain;
+}
+
+/* Center text in Mermaid HTML node labels */
+.mermaid .nodeLabel {
+    text-align: center;
 }

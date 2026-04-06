@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Rodrigo M B Santana</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 14:03:29 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Apr 2026 09:08:56 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Probabilidade para Machine Learning</title>
+      <link>http://localhost:1313/posts/probaml/</link>
+      <pubDate>Mon, 06 Apr 2026 09:08:56 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/probaml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agente_basico com Microsoft Agent Framework</title>
+      <link>http://localhost:1313/posts/agente_basico/</link>
+      <pubDate>Sat, 04 Apr 2026 22:36:09 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/agente_basico/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Microsoft Agent Framework Versão 1.0 Lançada</title>
@@ -47,16 +67,6 @@
       <guid>http://localhost:1313/posts/lpp/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/lpp/feature.png" />
-    </item>
-    
-    <item>
-      <title>Teste2</title>
-      <link>http://localhost:1313/posts/teste2/</link>
-      <pubDate>Fri, 27 Mar 2026 14:20:14 -0300</pubDate>
-      
-      <guid>http://localhost:1313/posts/teste2/</guid>
-      <description></description>
-      
     </item>
     
     <item>
