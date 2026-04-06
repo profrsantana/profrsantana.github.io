@@ -24,7 +24,7 @@
     <meta name="description" content="Escritos dos meus estudos em Visão Computacional, Agentes de Inteligência Artificial, e outros tópicos, inclusos os relacionados ao meu Doutorado em Ciencias e Tecnologias Espacias no ITA">
   
   
-    <meta name="keywords" content="Probabilidade,Machine Learning,Matemática,IA,">
+    <meta name="keywords" content="Probabilidade,Machine Learning,Matemática,IA,ML,">
   
   
   
@@ -93,9 +93,12 @@
     <meta property="article:tag" content="Machine Learning">
     <meta property="article:tag" content="Matemática">
     <meta property="article:tag" content="IA">
+    <meta property="article:tag" content="ML">
+    <meta property="og:image" content="http://localhost:1313/posts/probaml/feature.png">
 
   
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/posts/probaml/feature.png">
   <meta name="twitter:title" content="Probabilidade para Machine Learning">
   <meta name="twitter:description" content="Escritos dos meus estudos em Visão Computacional, Agentes de Inteligência Artificial, e outros tópicos, inclusos os relacionados ao meu Doutorado em Ciencias e Tecnologias Espacias no ITA">
 
@@ -416,10 +419,10 @@
     
     "dateModified": "2026-04-06T09:08:56-03:00",
     
-    "keywords": ["Probabilidade","Machine Learning","Matemática","IA"],
+    "keywords": ["Probabilidade","Machine Learning","Matemática","IA","ML"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "232"
+    "wordCount": "454"
   }]
   </script>
 
@@ -808,18 +811,10 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-04-06T09:08:56-03:00">06/04/2026</time><span class="px-2 text-primary-500">&middot;</span><span>232 palavras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tempo de leitura">2 minutos</span>
+      <time datetime="2026-04-06T09:08:56-03:00">06/04/2026</time><span class="px-2 text-primary-500">&middot;</span><span>454 palavras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tempo de leitura">3 minutos</span>
     
 
     
-    
-      <span class="ps-2"><span class="flex cursor-pointer">
-  <span
-    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    Rascunho
-  </span>
-</span>
-</span>
     
   </div>
 
@@ -873,6 +868,16 @@
   <span
     class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
     IA
+  </span>
+</span>
+
+              </a>
+            
+              <a class="relative mt-[0.5rem] me-2" href="/tags/ml/">
+                <span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    ML
   </span>
 </span>
 
@@ -1110,10 +1115,26 @@
           
 
 <p>Um dos tópicos que estou revisando esse ano é probabilidade, principalmente para aplicações em Machine Learning.</p>
+<ul>
+<li><a href="/posts/probaml/#probabilidade-de-um-evento" >Probabilidade de um Evento</a></li>
+<li><a href="/posts/probaml/#evento-complementar" >Evento Complementar</a></li>
+<li><a href="/posts/probaml/#resumo" >Resumo</a></li>
+<li><a href="/posts/probaml/#refer%c3%aancias" >Referências</a></li>
+</ul>
+
+<h2 class="relative group">Probabilidade de um Evento
+    <div id="probabilidade-de-um-evento" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#probabilidade-de-um-evento" aria-label="Âncora">#</a>
+    </span>
+    
+</h2>
 <p>De maneira simplificada, probabilidade é uma área da matemática que estuda a chance de eventos ocorrerem. Como em Machine Learning lidamos com dados e incertezas, a probabilidade é importante para entender como ler os resultados de modelos, e entender como metrifica-los.</p>
-<p>Vou buscar escrever os notações matemáticos também, pois para os que estudam e trabalham com Machine Learning, é importante entender a notação para ler artigos científicos e livros da área.</p>
+<p>Vou buscar escrever os notações matemáticas também, pois para os que estudam e trabalham com Machine Learning, é importante entender a notação para ler artigos científicos e livros da área.</p>
 <p>Um exemplo simples de probabilidade é, partindo do suposto que tenho 10 alunos em uma sala e 3 deles conhecem futebol, qual a probabilidade de um aluno escolhido aleatoriamente jogar futebol?</p>
-$$P(\text{futebol}) = \frac{\text{evento}}{\text{espaço amostral}} = \frac{\text{n alunos futebol}}{\text{n total alunos}} = \frac{3}{10} = 0,3$$<p>Então em um experimento aleatório, a probabilidade de escolher um aluno que joga futebol é 30%.</p>
+$$P(\text{futebol}) = \frac{\text{evento}}{\text{espaço amostral}} = \frac{\text{n alunos futebol}}{\text{n total alunos}} = \frac{3}{10} = 0,3$$<p>Então em um experimento aleatório, a probabilidade de escolher um aluno que joga futebol é 30%. Probabilidade sempre varia entre 0 e 1, ou 0 e 100%.</p>
 <p>Vamos representar isso graficamente, usando o diagrama de Venn, que é uma representação visual de conjuntos e suas relações:</p>
 <pre class="not-prose mermaid">
 graph TD
@@ -1129,11 +1150,38 @@ graph TD
 </pre>
 
 <p>Em notação matemática, ficaríamos assim:</p>
-$$\text{Espaço Amostral: } n(\Omega) = 10$$<p>
+<p><em>Espaço Amostral (pode-se usar a notação S ou Ω):</em>
 </p>
-$$\text{Evento A: } n(A) = 3$$<p>
+$$n(\Omega) = 10$$<p><em>Evento A (Alunos que jogam futebol):</em>
 </p>
-$$\text{Probabilidade: } P(A) = \frac{n(A)}{n(\Omega)} = \frac{3}{10} = 0,3$$
+$$n(A) = 3$$<p><em>Probabilidade:</em>
+</p>
+$$P(A) = \frac{n(A)}{n(\Omega)} = \frac{3}{10} = 0,3$$
+<h2 class="relative group">Evento Complementar
+    <div id="evento-complementar" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#evento-complementar" aria-label="Âncora">#</a>
+    </span>
+    
+</h2>
+<p>O complementar de um evento é a probabilidade do evento não acontecer. Tendo em vista que nosso espaço amostral \(n(\Omega)\) possui todos os eventos possíveis, no nosso exemplo o numero de alunos, e que a probabilidade é sempre um valor entre 0 e 1, entao o resultado do evento complementar é 1 menos a probabilidade do evento acontecer.</p>
+<p>\(P(A^c) = 1 - P(A)\)   tal que   \(A \cup A^c = \Omega\)</p>
+<p>No nosso exemplo, a probabilidade de escolher um aluno que não joga futebol é 70%:
+</p>
+$$P(\text{não futebol}) = 1 - P(\text{futebol}) = 1 - 0,3 = 0,7$$
+<h2 class="relative group">Resumo
+    <div id="resumo" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#resumo" aria-label="Âncora">#</a>
+    </span>
+    
+</h2>
+<p>Neste post, revisamos o conceito de probabilidade, que é a chance de eventos ocorrerem, e sua importância para Machine Learning. Usamos um exemplo simples de uma sala com 10 alunos, onde 3 jogam futebol, para calcular a probabilidade de escolher um aluno que joga futebol (30%) e o evento complementar (70%). Também representamos isso graficamente usando um diagrama de Venn. A probabilidade é fundamental para entender os resultados de modelos de Machine Learning e suas métricas.</p>
+
 <h2 class="relative group">Referências
     <div id="referências" class="anchor"></div>
     
@@ -1144,6 +1192,7 @@ $$\text{Probabilidade: } P(A) = \frac{n(A)}{n(\Omega)} = \frac{3}{10} = 0,3$$
     
 </h2>
 <p><a href="https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science/"  target="_blank" rel="noreferrer">Mathematics for Machine Learning and Data Science - deeplearning.ai</a></p>
+<p><a href="https://www.amazon.com/Probability-Statistics-Science-Uncertainty-Second/dp/1466575570"  target="_blank" rel="noreferrer">Probability and Statistics: The Science of Uncertainty - Michael J. Evans, Jeffrey S. Rosenthal</a></p>
 
           
           

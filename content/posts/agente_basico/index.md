@@ -9,6 +9,9 @@ tags = ["MAF", "Agentes", "IA", "Microsoft"]
 
 Nesse primeiro post da série sobre MAF, quero introduzir o conceito de agentes para um melhor entendimento.
 
+- [**O que é um agente?**](#o-que-é-um-agente)
+- [Referências](#referências)
+
 ## **O que é um agente?**
 
 Um agente é um sistema que tem a capacidade de receber informações, processá-las e tomar decisões de forma autônoma para atingir um objetivo específico. 
@@ -44,3 +47,5 @@ https://github.com/microsoft/ai-agents-for-beginners/blob/main/01-intro-to-ai-ag
 https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-version-1-0/
 
 ao final atualizar o post no github
+
+## Referências
