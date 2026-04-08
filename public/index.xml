@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Rodrigo M B Santana</copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 09:08:56 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Apr 2026 14:48:21 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Queimadas</title>
+      <link>http://localhost:1313/posts/queimadas/</link>
+      <pubDate>Mon, 06 Apr 2026 14:48:21 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/queimadas/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Probabilidade para Machine Learning</title>

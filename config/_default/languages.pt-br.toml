@@ -19,9 +19,8 @@ title = "Blog Prof Rodrigo Santana"
   links = [
     { linkedin = "https://www.linkedin.com/in/rodrigo-santana-8865294/" },
     { instagram = "https://www.instagram.com/profrsantana/" },
-    { email = "mailto:rodrigombsantana@gmail.com" },
-    { rss = "/posts/index.xml" },
     { google-scholar = "https://scholar.google.com.br/citations?user=AtFyNIwAAAAJ&hl" },
     { lattes = "http://lattes.cnpq.br/2093996354767369" },
+    { email = "mailto:rodrigombsantana@gmail.com" },
     { followit = "https://follow.it/blog-prof-rodrigo-santana?leanpub" },
   ]
