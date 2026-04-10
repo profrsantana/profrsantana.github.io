@@ -3,67 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-10T13:07:47-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/ml_caltech/</loc>
-    <lastmod>2026-04-10T13:07:47-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-04-10T13:07:47-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/queimadas/</loc>
-    <lastmod>2026-04-06T14:48:21-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/probaml/</loc>
+    <loc>https://profrsantana.github.io/</loc>
     <lastmod>2026-04-06T09:08:56-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/agente_basico/</loc>
-    <lastmod>2026-04-04T22:36:09-03:00</lastmod>
+    <loc>https://profrsantana.github.io/posts/</loc>
+    <lastmod>2026-04-06T09:08:56-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/maf/</loc>
+    <loc>https://profrsantana.github.io/posts/probaml/</loc>
+    <lastmod>2026-04-06T09:08:56-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://profrsantana.github.io/posts/maf/</loc>
     <lastmod>2026-04-03T14:03:29-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/icti/</loc>
+    <loc>https://profrsantana.github.io/posts/icti/</loc>
     <lastmod>2026-04-02T20:41:05-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/dmiae/</loc>
+    <loc>https://profrsantana.github.io/posts/dmiae/</loc>
     <lastmod>2026-04-01T09:46:19-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/lpp/</loc>
+    <loc>https://profrsantana.github.io/posts/lpp/</loc>
     <lastmod>2026-03-31T14:01:09-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/bemvindo/</loc>
+    <loc>https://profrsantana.github.io/posts/bemvindo/</loc>
     <lastmod>2026-03-26T15:43:29-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
