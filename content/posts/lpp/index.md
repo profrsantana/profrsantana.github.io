@@ -8,6 +8,12 @@ tags = ["ITA", "Seminários", "Doutorado"]
 
 Uma das disciplinas do meu doutorado esse ano no ITA é a TE-301, Seminários. Essa disciplina é coordenada pelo professor [Francisco Machado](http://lattes.cnpq.br/3088345359357221), com o intuito de apresentar grupos de pesquisa e trabalhos dentro do ITA. 
 
+- [Primeira Apresentação: Laboratório de Plasmas e Processos](#primeira-apresentação-laboratório-de-plasmas-e-processos)
+- [Meus comentários](#meus-comentários)
+- [Referências](#referências)
+  
+## Primeira Apresentação: Laboratório de Plasmas e Processos
+
 A primeira apresentação foi do [Laboratório de Plasmas e Processos](https://www.lpp.ita.br/), apresentada pelo professor [Andre Pereira](http://lattes.cnpq.br/0105707010434668) com o tema ***"Física de Plasmas: Superando Desafios da Tecnologia de Materiais"***
 
 ![Logo LPP](feature.png)
@@ -22,6 +28,8 @@ As linhas de pesquisa do LPP são:
 3. Energia, Sustentabilidade e Meio Ambiente
 4. Bioengenharia e Agricultura
 
+## Meus comentários
+
 A palestra foi muito interessante, apresentando diversos processos e aplicações de plasmas, especialmente os desenvolvidos no LPP. 
 
 Confesso que não conhecia o laboratório e foi interessante saber das aplicações de plasmas e o que o laboratório tem desenvolvido.
@@ -29,4 +37,5 @@ Confesso que não conhecia o laboratório e foi interessante saber das aplicaç�
 Destaco um exemplo que foi dado de aplicação de plasma em uma prótese de quadril, com o intuito de diminuir possíveis <u>infecções, melhorar a integração com o osso e aumentar a vida útil da prótese.</u> 
 O exemplo foi interessante pois semanas antes dessa palestra minha mãe havia colocado essa mesma prótese.
 
-
+## Referências
+- [Laboratório de Plasmas e Processos](https://www.lpp.ita.br/)
