@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Rodrigo M B Santana</copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 09:36:09 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2026 10:01:18 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Probabilidade para Machine Learning - Parte 2</title>
+      <link>http://localhost:1313/posts/probaml2/</link>
+      <pubDate>Mon, 13 Apr 2026 10:01:18 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/probaml2/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Agente básico com Microsoft Agent Framework usando Python</title>

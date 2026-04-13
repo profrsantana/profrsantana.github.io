@@ -9,6 +9,7 @@ tags = ["Probabilidade", "Machine Learning", "Matemática", "IA", "ML"]
 
 Um dos tópicos que estou revisando esse ano é probabilidade, principalmente para aplicações em Machine Learning.
 
+
 - [Probabilidade de um Evento](#probabilidade-de-um-evento)
 - [Evento Complementar](#evento-complementar)
 - [Resumo](#resumo)
@@ -71,10 +72,10 @@ $$P(\text{não futebol}) = 1 - P(\text{futebol}) = 1 - 0,3 = 0,7$$
 ## Resumo
 Neste post, revisamos o conceito de probabilidade, que é a chance de eventos ocorrerem, e sua importância para Machine Learning. Usamos um exemplo simples de uma sala com 10 alunos, onde 3 jogam futebol, para calcular a probabilidade de escolher um aluno que joga futebol (30%) e o evento complementar (70%). Também representamos isso graficamente usando um diagrama de Venn. A probabilidade é fundamental para entender os resultados de modelos de Machine Learning e suas métricas.
 
+Escreverei uma série de artigos conforme meus estudos vão progredindo, então fique atento para os próximos posts sobre probabilidade, estatística e outros tópicos relacionados a Machine Learning e Inteligência Artificial.
 
 
 ## Referências
+- [Mathematics for Machine Learning and Data Science - deeplearning.ai](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science/)
 
-[Mathematics for Machine Learning and Data Science - deeplearning.ai](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science/)
-
-[Probability and Statistics: The Science of Uncertainty - Michael J. Evans, Jeffrey S. Rosenthal](https://www.amazon.com/Probability-Statistics-Science-Uncertainty-Second/dp/1466575570)
+- [Probability and Statistics: The Science of Uncertainty - Michael J. Evans, Jeffrey S. Rosenthal](https://www.amazon.com/Probability-Statistics-Science-Uncertainty-Second/dp/1466575570)
