@@ -1,5 +1,5 @@
 {{ with .Site.Params.Author.links }}
-  {{ $customTitles := dict "followit" "Receber Novidades por Email" "google-scholar" "Google Scholar" }}
+  {{ $customTitles := dict "substack" "Inscreva-se na Newsletter" "google-scholar" "Google Scholar" }}
   <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500 space-x-2">
     {{ range $links := . }}
       {{ range $name, $url := $links }}

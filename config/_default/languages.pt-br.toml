@@ -22,5 +22,5 @@ title = "Blog Prof Rodrigo Santana"
     { google-scholar = "https://scholar.google.com.br/citations?user=AtFyNIwAAAAJ&hl" },
     { lattes = "http://lattes.cnpq.br/2093996354767369" },
     { email = "mailto:rodrigombsantana@gmail.com" },
-    { followit = "https://follow.it/blog-prof-rodrigo-santana?leanpub" },
+    { substack = "https://profrodrigosantana.substack.com/" },
   ]

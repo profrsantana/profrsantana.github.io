@@ -14,6 +14,6 @@
   weight = 30
 
 [[main]]
-  name = "Inscreva-se"
-  url = "https://follow.it/blog-prof-rodrigo-santana?leanpub"
+  name = "Inscreva-se na Newsletter"
+  url = "https://profrodrigosantana.substack.com/"
   weight = 40
