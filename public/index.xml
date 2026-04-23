@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2026 Rodrigo M B Santana</copyright>
-    <lastBuildDate>Mon, 13 Apr 2026 10:01:18 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Apr 2026 18:05:24 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Divisão de Aerodinâmica, Controle e Estruturas - IAE</title>
+      <link>http://localhost:1313/posts/ace_iae/</link>
+      <pubDate>Thu, 23 Apr 2026 18:05:24 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/ace_iae/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ace_iae/feature.png" />
+    </item>
+    
+    <item>
+      <title>Curso Learning from Data - Exemplo de Perceptron</title>
+      <link>http://localhost:1313/posts/ml_caltech2/</link>
+      <pubDate>Thu, 23 Apr 2026 17:45:17 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/ml_caltech2/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Probabilidade para Machine Learning - Soma de Probabilidades e Probabilidade Condicional</title>

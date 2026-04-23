@@ -12,19 +12,6 @@ Eu o estou acompanhando pela plataforma [EDX](https://www.edx.org/learn/machine-
 
 O curso vai focar bastante na base para um bom conhecimento.
 
-- [Curso Learning from Data - Caltech](#curso-learning-from-data---caltech)
-- [Epilogo](#epilogo)
-  - [Mapa do Curso](#mapa-do-curso)
-    - [Teoria](#teoria)
-    - [Técnicas](#técnicas)
-    - [Paradigmas](#paradigmas)
-- [O Problema de Aprendizado](#o-problema-de-aprendizado)
-  - [Dados Disponíveis](#dados-disponíveis)
-  - [Um padrão existe](#um-padrão-existe)
-  - [Não é possível criar um função matemática de maneira simples](#não-é-possível-criar-um-função-matemática-de-maneira-simples)
-- [O Fluxo do Aprendizado](#o-fluxo-do-aprendizado)
-- [Referências](#referências)
-
 ## Curso Learning from Data - Caltech
 O curso é uma introdução ao aprendizado de máquina, e aborda os seguintes tópicos:
 

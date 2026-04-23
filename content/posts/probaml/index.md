@@ -10,13 +10,6 @@ tags = ["Probabilidade", "Machine Learning", "Matemática", "IA", "ML"]
 
 Um dos tópicos que estou revisando esse ano é probabilidade, principalmente para aplicações em Machine Learning.
 
-
-- [Probabilidade de um Evento](#probabilidade-de-um-evento)
-- [Evento Complementar](#evento-complementar)
-- [Resumo](#resumo)
-- [Referências](#referências)
-
-
 ## Probabilidade de um Evento
 
 De maneira simplificada, probabilidade é uma área da matemática que estuda a chance de eventos ocorrerem. Como em Machine Learning lidamos com dados e incertezas, a probabilidade é importante para entender como ler os resultados de modelos, e entender como metrifica-los.

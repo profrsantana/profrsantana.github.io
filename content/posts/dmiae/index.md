@@ -6,10 +6,6 @@ series_order = 2
 tags = ["ITA", "Seminários", "Doutorado"]
 +++
 
-- [Armazenamento Híbrido de Energia eletroquímica em células de grafeno e mxeno de nióbio](#armazenamento-híbrido-de-energia-eletroquímica-em-células-de-grafeno-e-mxeno-de-nióbio)
-- [Meus comentários](#meus-comentários)
-- [Referências](#referências)
-  
 Continuando nos seminários da disciplina TE-301, a segunda apresentação foi da [Divisão de Materiais do IAE](https://iae.dcta.mil.br/), apresentada pelo professor [Emerson Gonçalves](http://lattes.cnpq.br/2105394824226325) com o tema: 
 ## Armazenamento Híbrido de Energia eletroquímica em células de grafeno e mxeno de nióbio
 

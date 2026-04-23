@@ -6,10 +6,6 @@ tags = ["Inovação", "P&D"]
 
 Essa semana participei de um evento online do [ICTi](https://www.linkedin.com/company/instituto-de-ciencia-e-tecnologia-itau-icti) chamado *Sinapses ICTi – Edição aberta*
 
-- [Descrição do evento:](#descrição-do-evento)
-- [Meus comentários](#meus-comentários)
-- [Referências](#referências)
-
 ![Logo ICTi Sinapses](/images/icti.png)
 
 ## Descrição do evento:

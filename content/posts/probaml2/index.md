@@ -9,16 +9,6 @@ tags = ["Probabilidade", "Machine Learning", "Matemática", "IA", "ML"]
 
 Continuando a série de artigos sobre Probabilidade para Machine Learning, neste post vamos falar de soma de Probabilidades e Probabilidade Condicional, e os impactos disso para a construção de modelos de Machine Learning.
 
-
-- [Soma das Probabilidades](#soma-das-probabilidades)
-  - [Mutuamente Exclusivos](#mutuamente-exclusivos)
-  - [Não Mutuamente exclusivos](#não-mutuamente-exclusivos)
-    - [Independentes / Dependentes](#independentes--dependentes)
-    - [Por que é importante entender a diferença entre eventos independentes e dependentes?](#por-que-é-importante-entender-a-diferença-entre-eventos-independentes-e-dependentes)
-- [Probabilidade Condicional](#probabilidade-condicional)
-- [Resumo](#resumo)
-- [Referências](#referências)
-
 ## Soma das Probabilidades
 
 Quando precisamos saber a probabilidade total de mais de um evento ocorrer, podemos usar a regra da soma de probabilidades, porem temos que levar em consideração se os eventos são mutuamente exclusivos ou independentes.

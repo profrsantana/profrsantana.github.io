@@ -8,10 +8,6 @@ tags = ["ITA", "Seminários", "Doutorado"]
 
 Uma das disciplinas do meu doutorado esse ano no ITA é a TE-301, Seminários. Essa disciplina é coordenada pelo professor [Francisco Machado](http://lattes.cnpq.br/3088345359357221), com o intuito de apresentar grupos de pesquisa e trabalhos dentro do ITA. 
 
-- [Primeira Apresentação: Laboratório de Plasmas e Processos](#primeira-apresentação-laboratório-de-plasmas-e-processos)
-- [Meus comentários](#meus-comentários)
-- [Referências](#referências)
-  
 ## Primeira Apresentação: Laboratório de Plasmas e Processos
 
 A primeira apresentação foi do [Laboratório de Plasmas e Processos](https://www.lpp.ita.br/), apresentada pelo professor [Andre Pereira](http://lattes.cnpq.br/0105707010434668) com o tema ***"Física de Plasmas: Superando Desafios da Tecnologia de Materiais"***

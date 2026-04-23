@@ -9,12 +9,6 @@ tags = ["MAF", "Agentes", "IA", "Microsoft", "Python", "Azure AI Foundry"]
 
 Nesse primeiro artigo da série sobre MAF, quero introduzir o conceito de agentes para um melhor entendimento, falar o que significa um agente ser "enterprise ready", e mostrar uma implementação básica de um agente usando Python e Azure AI Foundry.
 
-- [**O que é um agente?**](#o-que-é-um-agente)
-- [Enterprise ready](#enterprise-ready)
-- [Criação do Agente Básico](#criação-do-agente-básico)
-- [Resumo](#resumo)
-- [Referências](#referências)
-
 ## **O que é um agente?**
 
 Um agente é um sistema que tem a capacidade de receber informações, processá-las e tomar decisões de forma autônoma para atingir um objetivo específico. 
