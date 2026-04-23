@@ -2,6 +2,7 @@
 date = '2026-04-11T09:36:09-03:00'
 title = 'Agente básico com Microsoft Agent Framework usando Python'
 series = ["Microsoft Agent Framework"]
+series_order = 2
 tags = ["MAF", "Agentes", "IA", "Microsoft", "Python", "Azure AI Foundry"]
 +++
 

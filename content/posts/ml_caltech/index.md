@@ -2,6 +2,7 @@
 date = '2026-04-10T13:07:47-03:00'
 title = 'Curso Learning from Data - Caltech'
 series = ["Machine Learning"]
+series_order = 1
 tags = ["Machine Learning", "IA", "ML"]
 +++
 {{< katex >}}

@@ -2,6 +2,7 @@
 date = '2026-04-03T14:03:29-03:00'
 title = 'Microsoft Agent Framework Versão 1.0 Lançada'
 series = ["Microsoft Agent Framework"]
+series_order = 1
 tags = ["MAF", "Agentes", "IA", "Microsoft"]
 
 +++

@@ -2,6 +2,7 @@
 date = '2026-04-13T10:01:18-03:00'
 title = 'Probabilidade para Machine Learning - Soma de Probabilidades e Probabilidade Condicional'
 series = ["Matemática para Machine Learning"]
+series_order = 2
 tags = ["Probabilidade", "Machine Learning", "Matemática", "IA", "ML"]
 +++
 {{< katex >}}

@@ -2,6 +2,7 @@
 date = '2026-04-06T09:08:56-03:00'
 title = 'Probabilidade para Machine Learning'
 series = ["Matemática para Machine Learning"]
+series_order = 1
 tags = ["Probabilidade", "Machine Learning", "Matemática", "IA", "ML"]
 +++
 
