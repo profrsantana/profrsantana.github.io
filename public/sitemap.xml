@@ -27,12 +27,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/ml_caltech2/</loc>
-    <lastmod>2026-04-23T17:45:17-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/posts/probaml2/</loc>
     <lastmod>2026-04-13T10:01:18-03:00</lastmod>
     <changefreq>daily</changefreq>
