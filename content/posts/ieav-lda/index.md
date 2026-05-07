@@ -25,11 +25,12 @@ A radiação ionizante, seja de origem cósmica, ou originária de eventos de DQ
    
    Cinturões de Van Allen são regiões ao redor da Terra onde partículas carregadas vindas principalmente do Sol ficam presas pelo campo magnético terrestre. Essas partículas, como elétrons e prótons, se movem em espiral ao longo das linhas do campo magnético, formando zonas de alta radiação. Os cinturões ajudam a proteger a Terra de parte da radiação espacial, mas também representam risco para satélites, eletrônicos e astronautas em missões espaciais.
    ![Van Allen](belts.jpg)
+   _Fonte: https://picryl.com/media/magnetoplasmadynamcis-c65496_
 2) Eventos de Partículas Solares
 
     Eventos de partículas solares são fenômenos em que o Sol libera grandes quantidades de partículas carregadas de alta energia, principalmente prótons e elétrons, geralmente após explosões solares. Essas partículas podem viajar pelo espaço e atingir a Terra, afetando satélites, comunicações, sistemas elétricos e aumentando a exposição à radiação para astronautas e voos em altas altitudes. São eventos importantes em engenharia espacial e clima espacial.
     ![Eventos de Partículas Solares](solar.jpg)
-
+_Fonte: https://www.flickr.com/photos/gsfc/7931831962_
 
 3) Acidentes Radiológicos
 
@@ -49,6 +50,7 @@ Exemplos de efeitos eletrônicos incluem:
 
 A Anomalia do Atlantico Sul é uma área onde o campo magnético da Terra é mais fraco, principalmente sobre o Brasil e o Atlântico Sul. Nessa região, partículas energéticas dos cinturões de Van Allen conseguem chegar mais perto da superfície, aumentando a incidência de radiação em satélites e espaçonaves. Por isso, equipamentos eletrônicos que passam por essa área podem sofrer mais falhas, ruídos e efeitos eletrônicos causados pela radiação.
 ![Anomalia do Atlantico Sul](anomalia.png)
+_Fonte: https://commons.wikimedia.org/wiki/File:SAA_2020.png_
 
 ## Projetos e Pesquisas
 
