@@ -3,19 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/posts/ieav-lda/</loc>
-    <lastmod>2026-05-07T10:03:28-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-07T10:03:28-03:00</lastmod>
+    <lastmod>2026-05-08T16:50:33-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-05-08T16:50:33-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/agente_sessao/</loc>
+    <lastmod>2026-05-08T16:50:33-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/ieav-lda/</loc>
     <lastmod>2026-05-07T10:03:28-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
